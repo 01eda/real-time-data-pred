@@ -15,3 +15,7 @@ The EMG data is captured from the Myo device at an interval of 4 seconds, passed
 - Joblib (for loading the pre-trained model)
 - Pandas
 - Scikit-learn
+
+## Hardware Requirements:
+* **Myo Armband:** Used for capturing EMG signals.
+* **Myo SDK:** Myo software development kit for integrating the armband.
